@@ -1,0 +1,24 @@
+img {
+    width: 640px;
+    height: 360px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    border: 1px solid black;
+    padding: 2px 2px 2px 2px;
+    background-color: #f2f2f2;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+table {
+    border-collapse: collapse;
+    width: 640px;
+}
+th {
+    background-color: #f2f2f2;
+}

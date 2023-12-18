@@ -1,0 +1,12 @@
+.title {
+    width: 320px;
+    height: 180px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    border: 1px solid black;
+    padding: 2px 2px 2px 2px;
+    background-color: #f2f2f2;
+}
