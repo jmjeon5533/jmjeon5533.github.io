@@ -2,7 +2,7 @@ img {
     width: 640px;
     height: 360px;
 }
-a {
+a.button {
     text-decoration: none;
     color: black;
     font-size: large;
